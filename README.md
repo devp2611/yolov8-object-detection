@@ -52,7 +52,7 @@ pip install -r requirements.txt
 ### Object Detection Examples
 
 ![Detection 1](outputs/object_id_detection_1.png)
-![Detection 2](outputs/OBJECT ID DETECTED FOR 2x2.png)
+![Detection 2](outputs/OBJECT_ID_DETECTED_FOR_2x2.png)
 
 ---
 
