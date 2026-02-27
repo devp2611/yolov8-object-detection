@@ -9,7 +9,7 @@ The trained model detects objects and generates bounding boxes with confidence s
 ---
 
 ## 📂 Repository Structure
-
+```
 yolov8-object-detection/
 │
 ├── yolov8-Object-Detection.ipynb
@@ -17,8 +17,7 @@ yolov8-object-detection/
 │ └── dataset_sample/
 ├── outputs/
 ├── README.md
-
-
+```
 ---
 
 ## 📊 Full Dataset
