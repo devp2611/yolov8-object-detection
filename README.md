@@ -32,9 +32,16 @@ Due to GitHub file count limitations, the full dataset is hosted on Google Drive
 
 ## ⚙️ Installation
 
-Install the required dependencies:
-pip install -r requirements.txt
 
+1. Download or clone this repository.
+
+2. Open terminal inside the project folder.
+
+3. Install required libraries:
+
+```bash
+pip install -r requirements.txt
+```
 
 ---
 
