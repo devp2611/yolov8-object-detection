@@ -59,13 +59,13 @@ pip install -r requirements.txt
 ### Model Evaluation
 
 #### Confusion Matrix
-![Confusion Matrix](outputs/CONFUSION MATRIX.png)
+![Confusion Matrix](outputs/CONFUSION_MATRIX.png)
 
 #### Training & Validation Accuracy
-![Accuracy](outputs/TRAINING-VALIDATION ACCURACY.png)
+![Accuracy](outputs/TRAINING_VALIDATION_ACCURACY.png)
 
 #### Training & Validation Loss
-![Loss](outputs/TRAINING - VALIDATION LOSS.png)
+![Loss](outputs/TRAINING_VALIDATION_LOSS.png)
 
 ---
 
