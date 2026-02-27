@@ -53,7 +53,6 @@ pip install -r requirements.txt
 
 ![Detection 1](outputs/object_id_detection_1.png)
 ![Detection 2](outputs/OBJECT ID DETECTED FOR 2x2.png)
-![Detection 3](outputs/YOLO DETECTED TARGETED IMAGE.png)
 
 ---
 
