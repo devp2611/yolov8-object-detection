@@ -90,5 +90,6 @@ pip install -r requirements.txt
 - Deep Learning  
 - Object Detection (YOLOv8)  
 - Computer Vision  
-- Model Training & Evaluation  
+- Model Training
+- Model Evaluation
 - Performance Metrics Analysis  
